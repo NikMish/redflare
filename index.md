@@ -9,3 +9,5 @@ layout: default
 ![Branching](images/redflare_truck_june2018.jpg)
 
 [Link to another page](./second.html).
+
+[Link to the Facebook page](https://www.facebook.com/redflaretruck/)
